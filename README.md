@@ -1,1 +1,1 @@
-# course-example-template
+# Sample Course Template
